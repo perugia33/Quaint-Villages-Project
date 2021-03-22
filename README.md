@@ -7,5 +7,5 @@
 
 
 ### It's a travel tours website that lists the various tours offered 
-* Collects customer data via direct input 
+* Collects customer data via user input 
 * Stores and retrieves customer data from the Mongo DB using an Express server 
